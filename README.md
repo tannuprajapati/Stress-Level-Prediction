@@ -3,7 +3,7 @@
 This project is a web application that predicts stress levels based on various input factors. It uses a machine learning model to make predictions and provides a user-friendly interface for input and result display.
 
 # Video Of This Project
-[Watch the video here](path/to/video.mp4)
+[Watch the video here]((https://github.com/tannuprajapati/Stress-Level-Prediction/blob/main/Screen%20Recording%202024-12-17%20143032.mp4))
 ## Features
 
 - User input form for various stress-related factors
