@@ -35,7 +35,7 @@ This project is a web application that predicts stress levels based on various i
 
 1. Clone the repository:
    ```sh
-  
+   https://github.com/tannuprajapati/Stress-Level-Prediction
    ```
 2. Install the required dependencies:
    ```sh
@@ -65,7 +65,3 @@ This project is a web application that predicts stress levels based on various i
 ## Contributing
 
 Contributions to improve the project are welcome. Please feel free to fork the repository and submit pull requests.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
