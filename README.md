@@ -2,6 +2,8 @@
 
 This project is a web application that predicts stress levels based on various input factors. It uses a machine learning model to make predictions and provides a user-friendly interface for input and result display.
 
+# Video Of This Project
+[Watch the video here](path/to/video.mp4)
 ## Features
 
 - User input form for various stress-related factors
